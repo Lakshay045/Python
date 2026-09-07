@@ -1,3 +1,5 @@
+# Write a Python program to identify and display different types of attributes such as nominal, binary, ordinal, discrete, and continuous attributes using Pandas.
+
 import pandas as pd
 
 # Sample Dataset

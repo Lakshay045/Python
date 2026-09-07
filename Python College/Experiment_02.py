@@ -1,3 +1,5 @@
+# Write a Python program to calculate mean, median, mode, variance, standard deviation, quartiles, correlation, and descriptive statistics for a dataset using Pandas and SciPy.
+
 import numpy as np
 import pandas as pd
 from scipy import stats
